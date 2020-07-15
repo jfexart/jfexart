@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, I'm Jorge 👋
+
+Co-Founder at [@GuayoyoLabs](https://github.com/guayoyolabs/)
+
+### Projects
+
+:detective: **Thimbleweed Dark** - a mysterious dark theme inspired by Thimbleweed Park video game
+
+:cow: **Mootivation** - a online tool based on the game Moving Motivators from Management 3.0
 
 <!--
 **jfexart/jfexart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
