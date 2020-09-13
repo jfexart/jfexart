@@ -1,10 +1,9 @@
 ### Hi, I'm Jorge :wave:
 
-:coffee: Co-Founder at [@GuayoyoLabs](https://github.com/guayoyolabs/) <br>
-:venezuela: Born in Caracas, Venezuela <br>
-:uruguay: Living in MVD, Uruguay <br>
+:coffee: Co-Founder at [Guayoyo](https://guayoyo.io/) <br>
+:compass: Collaborator at [Pyxis](https://pyxis.com.uy/) <br>
 
-### Projects :man_technologist:
+### My projects :man_technologist:
 
 :detective: Thimbleweed Dark - a mysterious dark theme inspired by Thimbleweed Park video game <br>
 :cow: [Mootivation](https://mootivation.app/) - a online tool based on the game Moving Motivators from Management 3.0 <br>
