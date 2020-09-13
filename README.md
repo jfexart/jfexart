@@ -1,6 +1,10 @@
 ### Hi, I'm Jorge 👋
 
-:coffee: [@GuayoyoLabs](https://github.com/guayoyolabs/) Co-Founder
+:coffee: Co-Founder at [@GuayoyoLabs](https://github.com/guayoyolabs/) 
+
+:venezuela: Born in Caracas, Venezuela
+
+:uruguay: Living in MVD, Uruguay
 
 ### Projects
 
