@@ -1,14 +1,14 @@
-### Hi, I'm Jorge 👋
+### Hi, I'm Jorge :wave:
 
 :coffee: Co-Founder at [@GuayoyoLabs](https://github.com/guayoyolabs/) <br>
 :venezuela: Born in Caracas, Venezuela <br>
 :uruguay: Living in MVD, Uruguay <br>
 
-### Projects 
+### Projects :rocket:
 
-:detective: **Thimbleweed Dark** - a mysterious dark theme inspired by Thimbleweed Park video game <br>
-:cow: [**Mootivation**](https://mootivation.app/) - a online tool based on the game Moving Motivators from Management 3.0 <br>
-:flying_saucer: [**Ideas-2-Space**](http://ideas2.space/) - a web application to propose and vote ideas <br>
+:detective: Thimbleweed Dark - a mysterious dark theme inspired by Thimbleweed Park video game <br>
+:cow: [Mootivation](https://mootivation.app/) - a online tool based on the game Moving Motivators from Management 3.0 <br>
+:flying_saucer: [Ideas-2-Space](http://ideas2.space/) - a web application to propose and vote ideas <br>
 
 <!--
 Here are some ideas to get you started:
