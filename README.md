@@ -6,12 +6,11 @@
 
 :detective: **Thimbleweed Dark** - a mysterious dark theme inspired by Thimbleweed Park video game
 
-:cow: [**Mootivation**](https://mootivation.app/){:target="_blank"} - a online tool based on the game Moving Motivators from Management 3.0
+:cow: [**Mootivation**](https://mootivation.app/) - a online tool based on the game Moving Motivators from Management 3.0
 
-:flying_saucer: [**Ideas-2-Space**](http://ideas2.space/){:target="_blank"} - a web application to propose and vote ideas
+:flying_saucer: [**Ideas-2-Space**](http://ideas2.space/) - a web application to propose and vote ideas
 
 <!--
-**jfexart/jfexart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
