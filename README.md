@@ -1,6 +1,6 @@
 ### Hi, I'm Jorge 👋
 
-Co-Founder at [@GuayoyoLabs](https://github.com/guayoyolabs/)
+:coffe: [@GuayoyoLabs](https://github.com/guayoyolabs/) Co-Founder at 
 
 ### Projects
 
