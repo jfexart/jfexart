@@ -4,7 +4,7 @@
 :venezuela: Born in Caracas, Venezuela <br>
 :uruguay: Living in MVD, Uruguay <br>
 
-### Projects :rocket:
+### Projects :man_technologist:
 
 :detective: Thimbleweed Dark - a mysterious dark theme inspired by Thimbleweed Park video game <br>
 :cow: [Mootivation](https://mootivation.app/) - a online tool based on the game Moving Motivators from Management 3.0 <br>
@@ -12,7 +12,6 @@
 
 <!--
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
